@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627596232150",
+    "project_id": "makeyoustudy-1936d",
+    "storage_bucket": "makeyoustudy-1936d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627596232150:android:e00cba75786b1c13ea1077",
+        "android_client_info": {
+          "package_name": "com.example.myapplication111"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspJMv-66zLo2tbtkBTWU9HU1fU3DatSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
